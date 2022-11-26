@@ -1,0 +1,32 @@
+.active {
+  background: #dd0000;
+  color: #ffffff;
+}
+
+.card {
+  margin-top: 3rem;
+}
+.flag {
+  display: flex;
+  /* gap: 2; */
+  align-items: center;
+}
+.flag img {
+  width: 100%;
+}
+.flag p {
+  margin: 0 5px;
+  color: #4d4d4d;
+}
+
+.match_description {
+  line-height: 3rem;
+  /* margin: 0 auto; */
+  text-align: center;
+}
+.match_description h3 {
+  font-size: 2rem;
+}
+.grid {
+  padding: 0 5rem;
+}
